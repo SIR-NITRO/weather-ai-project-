@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("🌤️ Weather Prediction App")
+st.title("Weather Prediction App")
 st.write("This app predicts weather using machine learning")
 
 # Add a simple input
