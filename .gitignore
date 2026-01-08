@@ -1,0 +1,33 @@
+# Ignore data files
+data/*.csv
+*.pkl
+*.joblib
+*.model
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore environment files
+.env
+.venv/
+venv/
+# Ignore IDE files
+.vscode/
+.idea/
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
