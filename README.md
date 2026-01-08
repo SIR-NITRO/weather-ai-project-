@@ -1,3 +1,7 @@
+# Weather Prediction ML Project
+
+![CI Status](https://github.com/SIR-NITRO/weather-ml-project/actions/workflows/ci.yml/badge.svg)
+## Quick Start
 # weather-ai-project/
 Overall Goal Build an end-to-end AI project that: - Analyzes historical weather data - like the seasonal data (temperature, rainfall) to see which variables correlate most - Visualizes trends and patterns - observe the  trend charts and abnormal weather periods. - Predicts short-term weather variables - train-test split, model train, prediction and evaluate (using MAE & MSE).
 # Weather Prediction ML Project
